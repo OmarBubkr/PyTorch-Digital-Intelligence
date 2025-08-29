@@ -1,1 +1,1 @@
-# Construction of Digital Reasoning with PyTorch
+# Construction of Digital Reasoning Models with PyTorch
