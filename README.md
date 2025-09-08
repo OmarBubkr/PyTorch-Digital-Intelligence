@@ -3,8 +3,7 @@
 #
 #
 # Definition of Digital Intelligence(DI):
-# Feild of study that developes digital brains simulating the biological brain, 
-# based on The Process of Layered Processing and Probabilistic Modeling
+# Feild of study that developes digital brains simulating the biological brain, based on The Process of Layered Processing and Probabilistic Modeling
 #
 #
 # The Process of Layered Processing: Simulating the cordical processes 
