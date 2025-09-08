@@ -1,6 +1,7 @@
 # Construction of Digital Reasoning Models with PyTorch
 #
 #
+#
 # Definition of Digital Intelligence(DI):
 # Feild of study that developes digital brains simulating the biological brain, 
 # based on The Process of Layered Processing and Probabilistic Modeling
