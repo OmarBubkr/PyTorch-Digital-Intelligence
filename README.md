@@ -8,6 +8,6 @@
 #
 # The Process of Layered Processing: Simulating the cordical processes 
 #
-# Probabilistic Modeling: Simulating the Prefrontal Cortex's logical reasoning and rational decison making 
+# Probabilistic Modeling: Simulating the Prefrontal Cortex's neural network in logical reasoning and rational decison making 
 #
 # Prefrontal Cortex: Decision Center
