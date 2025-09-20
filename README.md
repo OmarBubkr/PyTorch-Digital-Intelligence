@@ -11,4 +11,4 @@
 #
 # Probabilistic Modeling: Simulating the Prefrontal Cortex's neural network in logical reasoning and rational decison making 
 #
-# Prefrontal Cortex: Decision Center
+# Prefrontal Cortex: Brain's Behavioral & Decision Center
