@@ -7,7 +7,7 @@
 #
 #
 # The Process of Layered Processing: Simulating the biological brain's cordical processes (e.g The Visual & Audial Cotrices in building Visual & Audial Awareness through layers. Initial layers extract simple features, and subsequent layers extract more advanced ones, from the image or sound <==> eyes or ears) 
-)
+
 #
 # Probabilistic Modeling: Simulating the Prefrontal Cortex's neural network in logical reasoning and rational decison making 
 #
