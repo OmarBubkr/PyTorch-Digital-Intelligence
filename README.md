@@ -10,9 +10,9 @@ Feild of study that builds & developes **digital brains** simulating the biologi
 
 **Probabilistic Modeling:** Simulating the Prefrontal Cortex's neural network in **logical reasoning** and rational decison making 
 
-**Visual Cortex:** The Building of meta-visual hierarchical awareness
+**Visual Cortex:** The Building of **meta-visual** hierarchical awareness
 
-**Prefrontal Cortex:** The Building of hierarchical meta-reason (Behavioural, long term risk assessment, compulsory, decision center, planning & prediction)
+**Prefrontal Cortex:** The Building of hierarchical **meta-reason** (Behavioural, long term risk assessment, compulsory, decision center, planning & prediction)
  
 
 Intelligence = Hierarchical Processing
