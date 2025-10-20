@@ -12,7 +12,7 @@ Feild of study that builds & developes **digital brains** simulating the biologi
 
 **Visual Cortex:** The Building of visual hierarchical awareness 
 
-**Prefrontal Cortex:** The Building of hierarchical reason (Behavioural, decision center, planning & prediction)
+**Prefrontal Cortex:** The Building of hierarchical reason (Behavioural, long term risk assessment, compulsory, decision center, planning & prediction)
  
 
 Intelligence = Hierarchical Processing
