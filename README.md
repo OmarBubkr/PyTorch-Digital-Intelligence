@@ -16,3 +16,4 @@ Feild of study that builds & developes **digital brains** simulating the biologi
  
 
 Intelligence = Hierarchical Processing
+Context = Meta-Level Awareness  
